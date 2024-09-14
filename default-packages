@@ -1,0 +1,5 @@
+pyright
+python-lsp-server[all]
+ruff
+ruff-lsp
+jedi-language-server
